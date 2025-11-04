@@ -16,7 +16,7 @@ This project analyzes **Road Accident Data** using Microsoft **Excel** to identi
 - Distribution of Total Casualties by Road Surface – Analyze accident frequency on dry, wet, or snow-covered roads.
 - Relation Between Casualties by Area/Location and Day/Night – Compare accident trends by urban/rural area and by light condition (daylight vs dark).
 
-- <a href="https://github.com/Bsbiswal231/Road-Accident-Data-Analysis/blob/main/Requirement.png"> Questions (KPIs) / Requirement </a>
+<img width="1403" height="795" alt="Screenshot 2025-08-28 184403" src="https://github.com/user-attachments/assets/e017709c-7cae-4056-8173-89a71485dbdb" />
 
 ### Process:
 
@@ -45,5 +45,6 @@ This project analyzes **Road Accident Data** using Microsoft **Excel** to identi
 - Highlighted actionable findings useful for improving road safety and awareness.
 
 ## Dashboard:
-<img width="1403" height="795" alt="Screenshot 2025-08-28 184403" src="https://github.com/user-attachments/assets/8ff3e0fe-4ee2-4e3a-90d9-941161ca6e83" />
+<img width="1835" height="823" alt="Road Accident Dashboard" src="https://github.com/user-attachments/assets/0b36929f-ea3b-4a55-a8a9-23d0b3b30a1b" />
+
 
