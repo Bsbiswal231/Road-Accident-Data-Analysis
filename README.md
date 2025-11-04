@@ -43,3 +43,6 @@ This project analyzes **Road Accident Data** using Microsoft **Excel** to identi
 #### 6. Insights Generation:🠺
 - Observed the major causes and contributing factors to accidents.
 - Highlighted actionable findings useful for improving road safety and awareness.
+
+## Dashboard:
+- <a href="https://github.com/Bsbiswal231/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Dashboard.png"</a>
