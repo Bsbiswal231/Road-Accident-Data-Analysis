@@ -45,4 +45,5 @@ This project analyzes **Road Accident Data** using Microsoft **Excel** to identi
 - Highlighted actionable findings useful for improving road safety and awareness.
 
 ## Dashboard:
-- <a href="https://github.com/Bsbiswal231/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Dashboard.png"</a>
+<img width="1403" height="795" alt="Screenshot 2025-08-28 184403" src="https://github.com/user-attachments/assets/8ff3e0fe-4ee2-4e3a-90d9-941161ca6e83" />
+
