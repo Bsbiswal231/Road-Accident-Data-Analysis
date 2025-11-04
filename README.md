@@ -1,6 +1,7 @@
 # Road Accident Analysis (Excel Project)
 
 ### Project Overview:
+
 This project analyzes **Road Accident Data** using Microsoft **Excel** to identify the key factors that contribute to road casualties. It explores accident trends, casualty severity, and the relationship between road conditions, vehicle types, and locations. The analysis helps to understand high-risk areas and supports better road-safety planning.
 
 ### Datast Used:
@@ -47,4 +48,7 @@ This project analyzes **Road Accident Data** using Microsoft **Excel** to identi
 ## Dashboard:
 <img width="1835" height="823" alt="Road Accident Dashboard" src="https://github.com/user-attachments/assets/0b36929f-ea3b-4a55-a8a9-23d0b3b30a1b" />
 
+## Final Conclusion:
+
+The analysis showed that most accidents occurred on single carriageway roads, mainly involving cars in urban areas. Dry road conditions and night-time contributed to higher casualties. Overall, casualties slightly decreased year over year, indicating small but positive progress in road safety.
 
