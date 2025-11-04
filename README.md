@@ -1,2 +1,5 @@
-# Road-Accident-Data-Analysis
-Analyzed accident data using Excel to identify high-risk zones, understand cause patterns, and support data-driven road safety improvements.
+# Road Accident Analysis (Excel Project)
+
+### Project Overview:
+This project analyzes **Road Accident Data** using Microsoft **Excel** to identify the key factors that contribute to road casualties. It explores accident trends, casualty severity, and the relationship between road conditions, vehicle types, and locations. The analysis helps to understand high-risk areas and supports better road-safety planning.
+
